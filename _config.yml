@@ -2,7 +2,7 @@ title: Elsie Basa # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  About Me: >
+  About Me:
   <div class="about-me">
     <p>
       I am a student pursuing a Master's in Statistics at UC Davis, I am deeply enthusiastic about machine learning. I have 2 years of work experience as a Data Analyst working for a bank in the digital department 
