@@ -1,5 +1,30 @@
 ## Portfolio
 
+
+
+### Skills
+
+#### Programming Languages
+
+- Python
+    - pandas
+    - numpy
+    - TensorFlow
+    - scikit-learn
+- SQL
+- R
+
+#### Data Visualization
+
+- Tableau
+  - Desktop
+  - Prep
+
+---
+
+
+
+
 ---
 
 ### Category Name 1 
