@@ -29,8 +29,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+(Brain Tumor Classification Using Machine Learning/sample_page)
+<img src="images/brain_ml.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
