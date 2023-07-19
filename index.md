@@ -30,7 +30,7 @@
 ### Category Name 1 
 
 (Brain Tumor Classification Using Machine Learning/sample_page)
-<img src="images/brain_ml.png?raw=true"/>
+<img src="images/brain_ml.png?raw=true" width="300" height="200" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
