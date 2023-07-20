@@ -38,7 +38,7 @@
 <img src="images/mask_img.png?raw=true" width="500" height="300" />
 
 ---
-[Project 3 Title](http://example.com/)
+[Visual Stimuli's Effect on Mice's Neuron Firings](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
