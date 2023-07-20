@@ -35,7 +35,7 @@
 
 ---
 [Face Mask Detection Model](/pdf/sample_presentation.pdf)
-<img src="mask_img.png?raw=true" width="500" height="300" />
+<img src="images/mask_img.png?raw=true" width="500" height="300" />
 
 ---
 [Project 3 Title](http://example.com/)
