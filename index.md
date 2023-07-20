@@ -43,6 +43,12 @@
 
 ---
 
+[Visual Stimuli's Effect on Mice's Neuron Firings](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
