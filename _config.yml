@@ -1,33 +1,67 @@
-title: Elsie Basa # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+## Portfolio
 
-  About Me:
-  <div class="about-me">
-    <p>
-      I am a student pursuing a Master's in Statistics at UC Davis, I am deeply enthusiastic about machine learning. I have 2 years of work experience as a Data Analyst working for a bank in the digital department 
 
-    </p>
-  </div>
 
-  <br><br>
-  ## Programming Languages:
+### Skills
+
+#### Programming Languages
+
 - Python
-- Java
--SQL
+    - pandas
+    - numpy
+    - TensorFlow
+    - scikit-learn
+- SQL
 - R
-  
-    
 
-  
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/elsie-basa-aa6405130/">View My LinkedIn Profile</a> 
-  <br><br>
-  
-    <a href="https://github.com/elsiebasa">View My Github</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#### Data Visualization
+
+- Tableau
+  - Desktop
+  - Prep
+
+---
+
+
+
+
+---
+
+### Machine Learning Projects
+
+[Brain Tumor Classification Using Machine Learning](/pdf/Brain_tumor_ML_oject_Report.pdf)
+
+<img src="images/brain_ml.png?raw=true" width="500" height="300" />
+
+---
+[Face Mask Detection Model]( https://elsiebasa.github.io/Face-Mask-Detection-Machine-Learning-Python-Model/)
+<img src="images/mask_img.png?raw=true" width="500" height="300" />
+
+---
+[Visual Stimuli's Effect on Mice's Neuron Firings](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
+<img src="images/neuron.jpeg?raw=true" width="500" height="300" />
+
+---
+
+[Weather Prediction using LSTM](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
+### Category Name 2
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
