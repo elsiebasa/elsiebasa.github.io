@@ -29,7 +29,8 @@
 
 ### Machine Learning Projects
 
-Brain Tumor Classification Using Machine Learning(/pdf/Brain_tumor_ML_oject_Report.pdf)
+[Brain Tumor Classification Using Machine Learning](/pdf/Brain_tumor_ML_oject_Report.pdf)
+
 <img src="images/brain_ml.png?raw=true" width="500" height="300" />
 
 ---
