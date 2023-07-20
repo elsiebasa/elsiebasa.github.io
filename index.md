@@ -34,7 +34,7 @@
 <img src="images/brain_ml.png?raw=true" width="500" height="300" />
 
 ---
-[Face Mask Detection Model](/pdf/sample_presentation.pdf)
+[Face Mask Detection Model]( https://elsiebasa.github.io/Face-Mask-Detection-Machine-Learning-Python-Model/)
 <img src="images/mask_img.png?raw=true" width="500" height="300" />
 
 ---
