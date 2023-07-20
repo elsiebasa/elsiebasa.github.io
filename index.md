@@ -34,8 +34,8 @@
 <img src="images/brain_ml.png?raw=true" width="500" height="300" />
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Face Mask Detection Model](/pdf/sample_presentation.pdf)
+<img src="mask_img.png?raw=true" width="500" height="300" />
 
 ---
 [Project 3 Title](http://example.com/)
