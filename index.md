@@ -1,31 +1,4 @@
-## Portfolio
 
-
-
-### Skills
-
-#### Programming Languages
-
-- Python
-    - pandas
-    - numpy
-    - TensorFlow
-    - scikit-learn
-- SQL
-- R
-
-#### Data Visualization
-
-- Tableau
-  - Desktop
-  - Prep
-
----
-
-
-
-
----
 
 ### Machine Learning Projects
 
@@ -45,19 +18,6 @@
 
 [Weather Prediction using LSTM](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
