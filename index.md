@@ -16,7 +16,7 @@
 
 ---
 
-[Weather Prediction using LSTM](/pdf//LSTM --weather prediction.pdf) 
+[Weather Prediction using LSTM](/pdf/LSTM --weather prediction.pdf) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
