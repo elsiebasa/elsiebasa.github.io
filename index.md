@@ -1,4 +1,4 @@
---
+
 
 ### Machine Learning Projects
 
@@ -7,7 +7,7 @@
 <img src="images/brain_ml.png?raw=true" width="500" height="300" />
 
 ---
-[Face Mask Detection Model]( https://elsiebasa.github.io/Face-Mask-Detection-Machine-Learning-Python-Model/)
+[Face Mask Detection Model](https://github.com/elsiebasa/Face-Mask-Detection-Machine-Learning-Python-Model)
 <img src="images/mask_img.png?raw=true" width="500" height="300" />
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-[Weather Prediction using LSTM](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
+[Weather Prediction using LSTM](/pdf//LSTM --weather prediction.pdf) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
