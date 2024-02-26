@@ -23,7 +23,7 @@ Create a face mask detection model using CNNs and was tested using real-time vid
 ---
 
 [Weather Prediction using LSTM](/pdf/LSTM --weather prediction.pdf) 
-<img src="images/weather_image.png?raw=true"/>
+<img src="images/weather_image.png?raw=true"  width="300" height="300" />
 
 Used LSTM to create a weather prediction model
 
