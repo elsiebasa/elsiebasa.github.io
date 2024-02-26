@@ -1,13 +1,13 @@
 
 
-### Data Science and Machine Learning Projects
+## Data Science and Machine Learning Projects
 
 [YouTube Video Summarization App](https://youtube-video-summary-app-ebasa.streamlit.app/)
 
 <img src="images/youtuve_logo.png?raw=true" width="300" height="300" />
 
 Created a full-stack web application that summarizes YouTube videos using YouTube API and deep-learning LLM models
-
+---
 [Brain Tumor Classification Using Machine Learning](/pdf/Brain_tumor_ML_oject_Report.pdf)
 
 <img src="images/brain_ml.png?raw=true" width="300" height="300" />
