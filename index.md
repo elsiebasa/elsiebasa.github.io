@@ -6,13 +6,14 @@
 
 <img src="images/youtuve_logo.png?raw=true" width="500" height="300" />
 
-Created a full-stack web application that summarizes YouTube videos using Youtube API and deep learning LLM models
+Created a full-stack web application that summarizes YouTube videos using YouTube API and deep-learning LLM models
 
 [Brain Tumor Classification Using Machine Learning](/pdf/Brain_tumor_ML_oject_Report.pdf)
 
 <img src="images/brain_ml.png?raw=true" width="500" height="300" />
 
-With machine learning created and compared various models for brain tumor detection from MRI images
+With machine learning, created and compared various models for brain tumor detection from MRI images
+
 ---
 [Face Mask Detection Model](https://github.com/elsiebasa/Face-Mask-Detection-Machine-Learning-Python-Model)
 <img src="images/mask_img.png?raw=true" width="500" height="300" />
@@ -20,6 +21,7 @@ With machine learning created and compared various models for brain tumor detect
 Create a face mask detection model using CNNs and was tested using real-time videos
 
 ---
+
 [Weather Prediction using LSTM](/pdf/LSTM --weather prediction.pdf) 
 <img src="images/weather_image.png?raw=true"/>
 
