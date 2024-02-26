@@ -5,26 +5,21 @@ description: > # your text below (remove <br> elements if you don't need line br
   About Me:
   <div class="about-me">
     <p>
-    I am a data scinetist. I recently graduate with a Master's in Statistics at UC Davis. I am deeply enthusiastic about machine learning. I have 2 years of work experience as a Data Analyst working for a bank in the digital department 
+    I am a data scientist who Irecently graduated with a Master's in Statistics at UC Davis. I am deeply enthusiastic about machine learning. I have 2 years of work experience as a Data Analyst working for a bank in the digital department 
 
     </p>
   </div>
 
   <br><br>
-  Programming Languages:
+  Programming Languages: Python, SQL, R Java
   
-  - Python
-  
-  - Java
-  
-  - SQL
-  
-  
-  - R
    <br><br>
 
     
   <a href="https://www.linkedin.com/in/elsie-basa-aa6405130/">View My LinkedIn Profile</a> 
+  <br><br>
+
+  <a href="https://github.com/elsiebasa">View My GitHub Profile</a> 
   <br><br>
   
     
