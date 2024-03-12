@@ -38,7 +38,7 @@ Create a face mask detection model using CNNs and was tested using real-time vid
 Used LSTM to create a weather prediction model
 
 ---
-### Visual Stimuli's Effect on Mice's Neuron Firings](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
+Visual Stimuli's Effect on Mice's Neuron Firings](https://elsiebasa.github.io/STA-207-Final-Project/STA%20207%20-Final%20Project.html)
 
 <img src="images/neuron.jpeg?raw=true" width="300" height="300" />
 
