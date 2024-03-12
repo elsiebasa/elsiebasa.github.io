@@ -2,7 +2,7 @@
 
 ## Data Science and Machine Learning Projects
 
-###[YouTube Video Summarization App](https://youtube-video-summary-app-ebasa.streamlit.app/)
+### [YouTube Video Summarization App](https://youtube-video-summary-app-ebasa.streamlit.app/)
 
 <img src="images/youtuve_logo.png?raw=true" width="300" height="300" />
 
